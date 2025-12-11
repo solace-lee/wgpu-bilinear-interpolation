@@ -1,4 +1,4 @@
-import init, { OffscreenImageRenderer } from './pkg/wgpu_image_renderer.js';
+import init, { OffscreenImageRenderer } from './pkg/wgpu_bilinear_interpolation.js';
 // import temp from './temp.json' assert { type: "json" };
 import temp from './temp.json';
 
