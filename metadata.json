@@ -1,0 +1,5 @@
+{
+  "name": "Rust/WASM WGPU Image Renderer",
+  "description": "A React application that uses a Rust/WASM module powered by WGPU to perform high-performance, offscreen image processing and rendering with bilinear interpolation and window/level adjustments.",
+  "requestFramePermissions": []
+}
